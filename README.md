@@ -121,7 +121,7 @@ The application will open in your browser.
 
 Watch the demo video:
 
-[test.mp4](test.zip)
+[test.mp4](Test.zip)
 
 ## Future Improvements
 
