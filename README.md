@@ -115,13 +115,13 @@ The application will open in your browser.
 
 ## Interface Preview
 
-![Voxa Interface](output.png)
+![Voxa Interface](Output.png)
 
 ## Demo
 
 Watch the demo video:
 
-[test.mp4](test.mp4)
+[test.mp4](test.zip)
 
 ## Future Improvements
 
