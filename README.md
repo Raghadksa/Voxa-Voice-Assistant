@@ -119,9 +119,9 @@ The application will open in your browser.
 
 ## Demo
 
-Watch the demo video:
+Watch the video:
 
-[Test.zip](Test.zip)
+[Test.zip]
 
 ## Future Improvements
 
